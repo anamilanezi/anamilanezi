@@ -2,7 +2,7 @@
 
 <p align="center">Good to see you here :) Do you want a cup of coffee? ☕</p>
 <div align="justify">
-My name is Ana, I'm a creative and curious person that loves to understand how and why things work the way they do. I'm also a Biologist with a Master's degree in Environmental Microbiology starting to explore the world of Web Development. 
+My name is Ana, I'm a creative and curious person that loves to understand how and why things work the way they do. I'm also a Biologist with a Master's degree in Environmental Microbiology and since the beginning of 2022 I've started to explore the world of Web Development. 
 
 - 🎯 Currently I'm learning Web Development with JavaScript, HTML and CSS on a Fullstack program provided by Alura platform.
 - 🐍 I have a basic knowledge of Python, R, SQL from Google Data Analytics Certificate that I'm finishing, and It is my intention to delve deeper into these topics as well. 
