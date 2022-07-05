@@ -2,12 +2,11 @@
 
 <p align="center">Good to see you here :) Do you want a cup of coffee? ☕</p>
 <div align="justify">
-My name is Ana, I'm a creative and curious person that loves to understand how and why things work the way they do. I'm also a Biologist with a Master's degree in Environmental Microbiology and since the beginning of 2022 I've started to explore the world of Web Development. 
+My name is Ana, I'm a creative and curious person that loves to understand how and why things work the way they do. I'm also a Biologist with a Master's degree in Environmental Microbiology and since the beginning of 2022 I've started to explore the world of Web Development and data analysis.
 
-- 🎯 Currently I'm learning Web Development with JavaScript, HTML and CSS on a Fullstack program provided by Alura platform.
-- 🐍 I have a basic knowledge of Python, R, SQL from Google Data Analytics Certificate that I'm finishing, and It is my intention to delve deeper into these topics as well. 
-- 🎲 I'm might be addicted to research and data so I'll probably ask you for some references :P
-- 🎨 I've always been surrounded by art in my family and I try to incorporate it into everything I do.
+- 🐍 I'm currently delving into Python with Dr. Angela Yu in the 100 days of code - The Complete Python Pro Bootcamp. You can check my projects and development [here](/py-practices/100-days-of-code). 
+- 🎯 I have a Front-end Certification from [Alura](https://www.alura.com.br/) which covered HTML5, CSS3, JavaScript, jQuery, responsive layouts and related topics.
+
 </div>
 
 <div style="display: flex" align="center">
