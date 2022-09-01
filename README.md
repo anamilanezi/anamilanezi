@@ -8,12 +8,13 @@ My name is Ana, I'm a creative and curious person that loves to understand how a
 - 🎯 I have a Front-end Certification from [Alura](https://www.alura.com.br/) which covered HTML5, CSS3, JavaScript, jQuery, responsive layouts and related topics.
 
 </div>
-
+<!--
 <div style="display: flex" align="center">
   <a href="https://github.com/anamilanezi">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anamilanezi&show_icons=true&theme=radical&count_private=true" />
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamilanezi&layout=compact&theme=radical"/>
 </div>
+-->
 
 
 
